@@ -19,7 +19,7 @@ app.set('view engine', 'ejs')
 app.use(express.static('Public'))
 
 
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3300
 
 app.listen(PORT, () =>{
 
