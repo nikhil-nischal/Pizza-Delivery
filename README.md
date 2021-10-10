@@ -22,3 +22,6 @@ How to run
 3. Go to project directory from terminal
 4. Type yarn install
 5. Type yarn dev to run the application.
+
+
+Contributors - Nikhil Nischal, Gazal Arora
